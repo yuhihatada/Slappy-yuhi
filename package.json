@@ -1,0 +1,19 @@
+{
+  "name": "slappy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.4.0",
+    "@vendia/serverless-express": "^4.3.8"
+  },
+  "devDependencies": {
+    "serverless": "^2.44.0",
+    "serverless-offline": "^7.0.0"
+  }
+}
